@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="#description">ལས་འཆར་གྱི་འགྲེལ་བཤད་ཁག Description</a> •
-  <a href="#owner">ལས་འཆར་གྱི་བདག་པོ། Owner</a> •
-  <a href="#integrations">ཡིག་མཛོད་གཞན་དང་སྦྲེལ་ཡོད་མེད། Integrations</a> •
-  <a href="#docs">ཡིག་ཆ་ཁག Docs</a>
+  <a href="#owner">ལས་འཆར་གྱི་བདག་པོ། Owner</a>•
+  <a href="#integrations">ཡིག་མཛོད་གཞན་དང་སྦྲེལ་ཡོད་མེད། Integrations</a>•
+  <a href="#docs">ཡིག་ཆ་ཁག Docs</a>•
 </p>
 <hr>
 
