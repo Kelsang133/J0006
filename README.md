@@ -10,17 +10,17 @@
 <!-- Replace the title of the repository -->
 
 <p align="center">
-  <a href="#description">ལས་འཆར་གྱི་འགྲེལ་བཤད་ཁག</a> •
-  <a href="#owner">ལས་འཆར་གྱི་བདག་པོ།</a> •
-  <a href="#integrations">ཡིག་མཛོད་གཞན་དང་སྦྲེལ་ཡོད་མེད།</a> •
-  <a href="#docs">ཡིག་ཆ་ཁག</a>
+  <a href="#description">ལས་འཆར་གྱི་འགྲེལ་བཤད་ཁག Description</a> •
+  <a href="#owner">ལས་འཆར་གྱི་བདག་པོ། Owner</a>•
+  <a href="#integrations">ཡིག་མཛོད་གཞན་དང་སྦྲེལ་ཡོད་མེད། Integrations</a>•
+  <a href="#docs">ཡིག་ཆ་ཁག Docs</a>•
 </p>
 <hr>
 
 ## ལས་འཆར་གྱི་འགྲེལ་བཤད་ཁག Description
 
-- [ ]  [RFJ0006](https://github.com/pecha-jobs/Requests/issues/24)
-- [ ]  [RFC0006](https://github.com/pecha-jobs/Requests/issues/23)
+- [ ]  [RFJ0006](https://github.com/pecha-jobs/Requests/issues/42)
+- [ ]  [RFC0006](https://github.com/pecha-jobs/Admin/issues/41)
 - [ ]  [Project](https://github.com/orgs/pecha-jobs/projects/8/views/1)
 
 
